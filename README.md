@@ -1,24 +1,38 @@
 # Hi there, I'm Miftahudin Aldi Saputra 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves to create and contribute to open-source projects. Here, you'll find a collection of my work, projects, and contributions in various areas of software development.
+Welcome to my GitHub profile! I'm a passionate software developer who loves to create and contribute to open-source projects. Here, you'll find a collection of my work, projects, and contributions.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on my self
+- 🔭 I’m currently working on myself
 - 🌱 I’m currently learning Laravel and Flutter
 - 👯 I’m looking to collaborate on -
 - 🤔 I’m looking for help with PHP/Laravel
 - 💬 Ask me about PHP/Laravel
 - 📫 How to reach me: miftafree3@gmail.com
 - 😄 Pronouns: -
-- ⚡ Fun fact: -]
+- ⚡ Fun fact: -
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** PHP
-- **Frameworks:** Laravel
-- **Tools:** VsCode
-- **Databases:** MySQL
+- **Languages:** ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+- **Frameworks:** ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+- **Tools:** ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
+## 🔧 Skill
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ## 📈 GitHub Stats
 
