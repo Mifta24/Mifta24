@@ -80,12 +80,4 @@ Here are a few of my top projects:
 - [Twitter](https://x.com/MiftaAldi24?t=WqPgDf6UH7Crk_i0iqX-XQ&s=09)
 - [Email](mailto:miftafree3@gmail.com)
 
-## 📝 Blog
-
-Check out my latest blog posts:
-
-- [Blog Post 1](https://yourblog.com/post1)
-- [Blog Post 2](https://yourblog.com/post2)
-- [Blog Post 3](https://yourblog.com/post3)
-
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
